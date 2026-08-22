@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "hub": {
+    "ver": "1.0.0"
+  },
+  "games": [
+    {
+      "id": "asura",
+      "name": "Asura",
+      "desc": "The best in Asura.",
+      "subs": ["default", "Asura"],
+      "ver": "2.6.0",
+      "url": "https://github.com/fqmh/Cypher/releases/download/HUB2.6/dfsadz987xz.zip",
+      "sha": "9a4b82679eb0418eb2503a76bf13624f5058e96d86722e1dd19343d29cfdcd57",
+      "exe": "_internal/Cypher.exe",
+      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/asura.png"
+    },
+    {
+      "id": "hyaku",
+      "name": "Hyaku Asura",
+      "desc": "Beta - coming soon.",
+      "subs": ["Hyaku"],
+      "status": "soon",
+      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Hyaku.png"
+    },
+    {
+      "id": "ryujin",
+      "name": "Ryujin",
+      "desc": "In development.",
+      "subs": ["Ryujin"],
+      "status": "soon",
+      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png"
+    }
+  ]
+}
