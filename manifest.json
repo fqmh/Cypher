@@ -20,7 +20,7 @@
       "name": "Hyaku Asura",
       "desc": "Beta - coming soon.",
       "subs": ["Hyaku"],
-      "status": "soon",
+      "exe": "_internal/HyakuAsura.exe",
       "url": "https://github.com/fqmh/Cypher/releases/download/HUB2.6/sadazsdfczxjksa7.zip",
       "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Hyaku.png"
     },
