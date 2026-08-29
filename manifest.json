@@ -27,8 +27,9 @@
       "subs": [
         "Hyaku"
       ],
-      "status": "soon",
-      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Hyaku.png"
+      "exe": "_internal/HyakuAsura.exe",
+      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Hyaku.png",
+      "status": "soon"
     },
     {
       "id": "ryujin",
@@ -37,11 +38,11 @@
       "subs": [
         "Ryujin"
       ],
-      "ver": "1.0.0",
-      "url": "https://github.com/fqmh/Cypher/releases/download/HUB2.6/dfsadz987xz.zip",
-      "sha": "9a4b82679eb0418eb2503a76bf13624f5058e96d86722e1dd19343d29cfdcd57",
       "exe": "_internal/Ryujin.exe",
-      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png"
+      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png",
+      "ver": "1.0.0",
+      "url": "https://github.com/fqmh/Cypher/releases/download/ryujin-1.0.0/19cc3a033654.zip",
+      "sha": "114fed7f4d9ebd61a9164494d483833cd5019d4f605dd047aee211c8572df445"
     }
   ]
 }
