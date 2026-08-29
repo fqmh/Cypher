@@ -14,9 +14,9 @@
         "default",
         "Asura"
       ],
-      "ver": "2.6.0",
-      "url": "https://github.com/fqmh/Cypher/releases/download/HUB2.6/dfsadz987xz.zip",
-      "sha": "9a4b82679eb0418eb2503a76bf13624f5058e96d86722e1dd19343d29cfdcd57",
+      "ver": "2.6.1",
+      "url": "https://github.com/fqmh/Cypher/releases/download/asura-2.6.1/28730bdc59e5.zip",
+      "sha": "8b551d92744a040f7f547cf8c7dcdb1b39a7a9a5d4fdfd728f67ce58a8b66b0f",
       "exe": "_internal/Cypher.exe",
       "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/asura.png"
     },
