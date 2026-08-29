@@ -34,15 +34,15 @@
     {
       "id": "ryujin",
       "name": "Ryujin",
-      "desc": "beta version is out!",
+      "desc": "Beta version out!",
       "subs": [
         "Ryujin"
       ],
-      "exe": "_internal/Ryujin.exe",
-      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png",
       "ver": "1.0.0",
       "url": "https://github.com/fqmh/Cypher/releases/download/ryujin-1.0.0/19cc3a033654.zip",
-      "sha": "114fed7f4d9ebd61a9164494d483833cd5019d4f605dd047aee211c8572df445"
+      "sha": "114fed7f4d9ebd61a9164494d483833cd5019d4f605dd047aee211c8572df445",
+      "exe": "_internal/Ryujin.exe",
+      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png"
     }
   ]
 }
