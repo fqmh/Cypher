@@ -37,7 +37,10 @@
       "subs": [
         "Ryujin"
       ],
-      "status": "soon",
+      "ver": "1.0.0",
+      "url": "https://github.com/fqmh/Cypher/releases/download/HUB2.6/dfsadz987xz.zip",
+      "sha": "9a4b82679eb0418eb2503a76bf13624f5058e96d86722e1dd19343d29cfdcd57",
+      "exe": "_internal/Ryujin.exe",
       "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png"
     }
   ]
