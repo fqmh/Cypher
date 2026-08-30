@@ -1,9 +1,9 @@
 {
   "v": 1,
   "hub": {
-    "ver": "1.0.1",
-    "url": "https://github.com/fqmh/Cypher/releases/download/hub-1.0.1/52cab2b709a3.zip",
-    "sha": "53882c8c9ebfe2941264dc82403bd878d12c3ba5c44de2b7cdfbcabf8cb20de8"
+    "ver": "1.0.2",
+    "url": "https://github.com/fqmh/Cypher/releases/download/hub-1.0.2/8a3d02995a8d.zip",
+    "sha": "00e04b7b37946fd62ab1d7101b957bbb1aa2586cde266f391bffe38ed0a448c1"
   },
   "games": [
     {
@@ -14,9 +14,9 @@
         "default",
         "Asura"
       ],
-      "ver": "2.6.1",
-      "url": "https://github.com/fqmh/Cypher/releases/download/asura-2.6.1/28730bdc59e5.zip",
-      "sha": "8b551d92744a040f7f547cf8c7dcdb1b39a7a9a5d4fdfd728f67ce58a8b66b0f",
+      "ver": "2.6.3",
+      "url": "https://github.com/fqmh/Cypher/releases/download/asura-2.6.3/b7e8adaeb330.zip",
+      "sha": "40dd4d85de1529d53c0ccb146771a30f8111ffbb08d969fe583c94c6e02ddf60",
       "exe": "_internal/Cypher.exe",
       "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/asura.png"
     },
@@ -38,9 +38,9 @@
       "subs": [
         "Ryujin"
       ],
-      "ver": "1.0.0",
-      "url": "https://github.com/fqmh/Cypher/releases/download/ryujin-1.0.0/19cc3a033654.zip",
-      "sha": "114fed7f4d9ebd61a9164494d483833cd5019d4f605dd047aee211c8572df445",
+      "ver": "1.0.1",
+      "url": "https://github.com/fqmh/Cypher/releases/download/ryujin-1.0.1/87f59474baaf.zip",
+      "sha": "63bf6905c16b9bf6163a7611d5fd06ae8f28dd44835589fd86dc321b64435902",
       "exe": "_internal/Ryujin.exe",
       "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png"
     }
