@@ -1,9 +1,9 @@
 {
   "v": 1,
   "hub": {
-    "ver": "1.0.2",
-    "url": "https://github.com/fqmh/Cypher/releases/download/hub-1.0.2/8a3d02995a8d.zip",
-    "sha": "00e04b7b37946fd62ab1d7101b957bbb1aa2586cde266f391bffe38ed0a448c1"
+    "ver": "1.0.3",
+    "url": "https://github.com/fqmh/Cypher/releases/download/hub-1.0.3/cab935dc1e08.zip",
+    "sha": "db9ebc1e9a85ab6c19648ee1b6c36d5ad67c2d1fb42a14b7ab0d9faf30a3ef2d"
   },
   "games": [
     {
@@ -14,9 +14,9 @@
         "default",
         "Asura"
       ],
-      "ver": "2.6.3",
-      "url": "https://github.com/fqmh/Cypher/releases/download/asura-2.6.3/b7e8adaeb330.zip",
-      "sha": "40dd4d85de1529d53c0ccb146771a30f8111ffbb08d969fe583c94c6e02ddf60",
+      "ver": "2.6.4",
+      "url": "https://github.com/fqmh/Cypher/releases/download/asura-2.6.4/391607fa4fbd.zip",
+      "sha": "97991349e5d15edd88ccfb3795874fcd4b66d27d73c49243497d38e9e62f46a5",
       "exe": "_internal/Cypher.exe",
       "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/asura.png"
     },
@@ -43,6 +43,17 @@
       "sha": "63bf6905c16b9bf6163a7611d5fd06ae8f28dd44835589fd86dc321b64435902",
       "exe": "_internal/Ryujin.exe",
       "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/Ryujin.png"
+    },
+    {
+      "id": "macrocreator",
+      "name": "Macro Creator",
+      "desc": "Build your own macros - no coding. Coming soon.",
+      "subs": [
+        "MacroCreator"
+      ],
+      "exe": "_internal/MacroCreator.exe",
+      "img": "https://raw.githubusercontent.com/fqmh/Cypher/refs/heads/main/MacroCreator.png",
+      "status": "soon"
     }
   ]
 }
